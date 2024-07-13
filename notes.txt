@@ -1,0 +1,7 @@
+create typescript project with pwa:
+npx create-react-app test --template cra-template-pwa-typescript
+
+
+run project:
+npm start
+
